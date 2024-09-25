@@ -12,7 +12,7 @@
 
 ## Gå live på Vercel
 
-1. Gå til https://vercel.com og logg inn med GitHub
+1. Gå til https://vercel.com og trykk "sign up" (eller "log in", hvis du har logget inn på Vercel før) og velg GitHub
 2. Hvis ikke du ser GitHub-repoene dine, trykk "Add new" øverst til høyre
 3. Velg repoet du lagde tidligere
 4. Trykk deploy 🚀
